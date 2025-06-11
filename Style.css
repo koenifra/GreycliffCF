@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Greycliff CF Bold';
+  src: url('GreycliffCF-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Greycliff CF';
+  src: url('GreycliffCF-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family:'Greycliff CF', sans-serif;
+  color: #100F0F !important;
+}
